@@ -302,7 +302,7 @@
       "state": "Delhi",
       "phone": "8586864566",
       "payment_type": "Cash on Delivery",
-      "deliver": true,
+      "deliver": false,
       "products": [
         {
           "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
@@ -344,7 +344,7 @@
       "state": "Delhi",
       "phone": "8586864566",
       "payment_type": "Cash on Delivery",
-      "deliver": false,
+      "deliver": true,
       "products": [
         {
           "title": "White Gold Plated Princess",
